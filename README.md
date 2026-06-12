@@ -4,9 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=200&section=header&text=Omar%20Loukil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20ERP%20Developer%20%7C%20Open%20to%20Opportunities&descAlignY=60&descAlign=50" />
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&random=false&width=650&lines=Cycle+Ingénieur+en+Génie+Informatique+🎓;Odoo+15+ERP+Developer+🔧;Python+%7C+Java+%7C+PHP+%7C+JavaScript;Spring+Boot+%7C+.NET+%7C+Laravel+%7C+Angular;Scrum+Certified+%7C+Agile+Practitioner+✅;Open+to+Internship+%26+Full-Time+🚀" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=650&lines=Cycle+Ing%C3%A9nieur+en+G%C3%A9nie+Informatique;Odoo+15+ERP+Developer;Python+%7C+Java+%7C+PHP+%7C+JavaScript;Spring+Boot+%7C+.NET+%7C+Laravel;Open+to+Internship+%26+Full-Time" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -35,7 +33,7 @@
 
 <img align="right" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarLoukil&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9b59b6&text_color=c9d1d9"/>
 
-🎓 **Cycle Ingénieur Génie Informatique** — IIT Sfax *(2025 – Présent)*
+🎓 **Cycle Ingénieur Génie Informatique** — IIT Sfax *(2024 – Présent)*
 
 🏛️ **Licence Informatique de Gestion** — FSEG Sfax *(2021 – 2024)*
 
@@ -195,7 +193,7 @@
 
 | 📅 Period | 🏢 Institution / Company | 📌 Role |
 |-----------|--------------------------|---------|
-| 2024 – Présent | **IIT Sfax** | Cycle Ingénieur — Génie Informatique |
+| 2025 – Présent | **IIT Sfax** | Cycle Ingénieur — Génie Informatique |
 | Fév – Mai 2025 | **FranchiseLab**, Sfax | Stagiaire Développeur ERP — PFE |
 | 2021 – 2024 | **FSEG Sfax** | Licence — Informatique de Gestion |
 | Juil – Août 2022 | **Star Assurances**, Sfax | Stagiaire — Gestion données clients |
