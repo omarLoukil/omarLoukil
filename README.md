@@ -35,7 +35,7 @@
 
 <img align="right" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarLoukil&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9b59b6&text_color=c9d1d9"/>
 
-🎓 **Cycle Ingénieur Génie Informatique** — IIT Sfax *(2024 – Présent)*
+🎓 **Cycle Ingénieur Génie Informatique** — IIT Sfax *(2025 – Présent)*
 
 🏛️ **Licence Informatique de Gestion** — FSEG Sfax *(2021 – 2024)*
 
