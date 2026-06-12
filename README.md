@@ -17,59 +17,39 @@
 
 <br/>
 
-<!-- LOCATION & STATUS -->
 ![Location](https://img.shields.io/badge/📍%20Sfax%2C%20Tunisia-Available%20for%20Hire-22c55e?style=for-the-badge)
 ![Open to Work](https://img.shields.io/badge/🟢%20Open%20to-Internship%20%7C%20Full--Time-6f42c1?style=for-the-badge)
 
 <br/><br/>
 
-<!-- CTA BUTTONS -->
 [![GitHub](https://img.shields.io/badge/GitHub-omarLoukil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omarLoukil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--loukil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-loukil)
-[![Email](https://img.shields.io/badge/Email-omar.loukil03%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.loukil03@gmail.com)
-[![Phone](https://img.shields.io/badge/📞%20(+216)%2093%20896%20237-Contact%20Me-6f42c1?style=for-the-badge)](tel:+21693896237)
+[![Email](https://img.shields.io/badge/Gmail-omar.loukil03%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.loukil03@gmail.com)
+[![Phone](https://img.shields.io/badge/📞-(+216)%2093%20896%20237-6f42c1?style=for-the-badge)](tel:+21693896237)
 
 </div>
 
 ---
 
-<div align="center">
-
 ## 👨‍💻 About Me
 
-</div>
+<img align="right" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarLoukil&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9b59b6&text_color=c9d1d9"/>
 
-```python
-class OmarLoukil:
-    def __init__(self):
-        self.name        = "Omar Loukil"
-        self.role        = "Software Engineer & ERP Developer"
-        self.current     = "Cycle Ingénieur — Génie Informatique @ IIT Sfax"
-        self.degree      = "Licence Informatique de Gestion — FSEG Sfax (2021–2024)"
-        self.bac         = "Baccalauréat Économie & Gestion — 2021"
-        self.location    = "Sfax, Tunisia 🇹🇳"
-        self.email       = "omar.loukil03@gmail.com"
-        self.phone       = "(+216) 93 896 237"
-        self.status      = "🟢 Open to internship & full-time opportunities"
-        self.certified   = ["Scrum Fundamentals Certified"]
+🎓 **Cycle Ingénieur Génie Informatique** — IIT Sfax *(2024 – Présent)*
 
-    def current_focus(self):
-        return [
-            "🔧 ERP development with Odoo 15",
-            "⚡ Full-stack web apps (Spring Boot, Angular, Laravel)",
-            "📊 Database design — PostgreSQL, MySQL, SQL Server",
-            "🚀 Software engineering best practices & Agile Scrum",
-        ]
+🏛️ **Licence Informatique de Gestion** — FSEG Sfax *(2021 – 2024)*
 
-    def languages(self):
-        return {
-            "Arabic"  : "Native 🇹🇳",
-            "French"  : "Intermediate 🇫🇷",
-            "English" : "Good level 🇬🇧",
-        }
+💼 **Stagiaire Développeur ERP** — FranchiseLab *(Fév – Mai 2025)*
 
-omar = OmarLoukil()
-```
+📍 **Sfax, Tunisie** — Disponible pour opportunités
+
+✅ **Scrum Fundamentals Certified**
+
+🌍 **Langues :** Arabe 🇹🇳 | Français 🇫🇷 | Anglais 🇬🇧
+
+<br/>
+
+> 💡 *Passionné par le développement ERP, les applications web full-stack et l'automatisation des processus métiers.*
 
 ---
 
@@ -115,7 +95,6 @@ omar = OmarLoukil()
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarLoukil&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9b59b6&icon_color=6f42c1&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarLoukil&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9b59b6&text_color=c9d1d9"/>
 
 </div>
 
@@ -146,17 +125,17 @@ omar = OmarLoukil()
 
 | Module | Description |
 |--------|-------------|
-| `authentification` | Portail client — soumission de projets, dashboard, suivi offres |
-| `authentification_commercial` | Espace commercial — création d'offres, gestion projets & clients |
-| `authentification_consultant` | Espace expert — validation d'offres, suivi des missions |
+| `authentification` | Portail client — soumission projets, dashboard, suivi offres |
+| `authentification_commercial` | Espace commercial — création offres, gestion projets & clients |
+| `authentification_consultant` | Espace expert — validation offres, suivi missions |
 | `authentification_portal` | Portail unifié — landing page multi-rôles |
 
-**Key Achievements :**
+**Réalisations :**
 - ✅ Authentification multi-rôles (Client / Commercial / Consultant)
 - ✅ Gestion complète du cycle de vie des projets
 - ✅ Génération automatisée des offres commerciales
 - ✅ Tableaux de bord temps réel par rôle
-- ✅ Architecture MVC — pattern modulaire Odoo
+- ✅ Architecture MVC modulaire Odoo
 - ✅ Base de données PostgreSQL avec intégrité référentielle
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omarLoukil/projetPFE)
@@ -174,6 +153,8 @@ omar = OmarLoukil()
 - Système de gestion des candidatures et des offres de stage
 - Interface responsive et intuitive
 
+[![View Repo](https://img.shields.io/badge/View%20Repository-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omarLoukil)
+
 </details>
 
 <details>
@@ -185,7 +166,9 @@ omar = OmarLoukil()
 
 - Application desktop de gestion des produits et des stocks
 - Interface de gestion des entrées/sorties de stock
-- Reporting et tableaux de bord
+- Reporting et tableaux de bord intégrés
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omarLoukil)
 
 </details>
 
@@ -197,8 +180,10 @@ omar = OmarLoukil()
 **Stack :** `Spring Boot` `Angular` `MySQL` `Java`
 
 - Application web full-stack de gestion des réclamations clients
-- API REST avec Spring Boot
-- Interface moderne avec Angular
+- API REST avec Spring Boot backend
+- Interface moderne et responsive avec Angular
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omarLoukil)
 
 </details>
 
@@ -211,10 +196,10 @@ omar = OmarLoukil()
 | 📅 Period | 🏢 Institution / Company | 📌 Role |
 |-----------|--------------------------|---------|
 | 2024 – Présent | **IIT Sfax** | Cycle Ingénieur — Génie Informatique |
-| Fév – Mai 2025 | **FranchiseLab**, Sfax | Stagiaire Développeur ERP (PFE) |
+| Fév – Mai 2025 | **FranchiseLab**, Sfax | Stagiaire Développeur ERP — PFE |
 | 2021 – 2024 | **FSEG Sfax** | Licence — Informatique de Gestion |
-| Juil – Août 2022 | **Star Assurances**, Sfax | Stagiaire — Gestion des données clients |
-| 2021 | **Lycée** | Baccalauréat Économie & Gestion |
+| Juil – Août 2022 | **Star Assurances**, Sfax | Stagiaire — Gestion données clients |
+| 2021 | **Baccalauréat** | Économie & Gestion |
 
 </div>
 
@@ -222,17 +207,20 @@ omar = OmarLoukil()
 
 ## 📈 Skills Proficiency
 
-```
-Python / Odoo 15   ████████████████████  85%
-Java / Spring Boot ████████████████░░░░  80%
-PHP / Laravel      ███████████████░░░░░  75%
-C# / .NET          ███████████████░░░░░  75%
-JavaScript         ██████████████░░░░░░  70%
-Angular            █████████████░░░░░░░  65%
-PostgreSQL / MySQL ████████████████████  85%
-Git / GitHub       █████████████████░░░  85%
-Agile / Scrum      ████████████████████  90%
-```
+<div align="center">
+
+| Skill | Level |
+|-------|-------|
+| Python / Odoo 15 | `████████████████████` 85% |
+| PostgreSQL / MySQL / SQL Server | `████████████████████` 85% |
+| Git / GitHub | `█████████████████░░░` 85% |
+| Agile / Scrum | `████████████████████` 90% |
+| Java / Spring Boot | `████████████████░░░░` 80% |
+| PHP / Laravel | `███████████████░░░░░` 75% |
+| C# / .NET | `███████████████░░░░░` 75% |
+| JavaScript / Angular | `██████████████░░░░░░` 70% |
+
+</div>
 
 ---
 
@@ -240,21 +228,7 @@ Agile / Scrum      ████████████████████ 
 
 <div align="center">
 
-![Scrum](https://img.shields.io/badge/✅%20Scrum%20Fundamentals-Certified-6f42c1?style=for-the-badge&logo=scrumalliance&logoColor=white)
-
-</div>
-
----
-
-## 🌐 Languages
-
-<div align="center">
-
-| Language | Level |
-|----------|-------|
-| 🇹🇳 Arabic | Native |
-| 🇫🇷 French | Intermediate |
-| 🇬🇧 English | Good level |
+![Scrum](https://img.shields.io/badge/✅%20Scrum%20Fundamentals-Certified-6f42c1?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -267,7 +241,7 @@ Agile / Scrum      ████████████████████ 
 [![GitHub](https://img.shields.io/badge/GitHub-omarLoukil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omarLoukil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--loukil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-loukil)
 [![Email](https://img.shields.io/badge/Gmail-omar.loukil03%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.loukil03@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-(+216)%2093%20896%20237-6f42c1?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+21693896237)
+[![Phone](https://img.shields.io/badge/📞-(+216)%2093%20896%20237-6f42c1?style=for-the-badge)](tel:+21693896237)
 
 <br/>
 
@@ -283,6 +257,6 @@ Agile / Scrum      ████████████████████ 
 
 *⭐ If you find my work interesting, consider starring my repositories!*
 
-**💼 Currently pursuing Cycle Ingénieur @ IIT Sfax — Open to opportunities**
+**💼 Cycle Ingénieur @ IIT Sfax — Open to internship & full-time opportunities**
 
 </div>
